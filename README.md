@@ -132,8 +132,12 @@ Global-Health-Disease-Analysis/
 ├── Global_Health_Disease_Analysis.ipynb
 ├── README.md
 ├── BIG_disease_data.csv
-├── worldometer_covid_exact_table.csv
-└── selenium_covid_data.csv
+├── selenium_covid_data.csv
+├── clean_disease_symptoms_data.csv
+├── final_project_data.csv
+├── Full_Health_Descriptions.xlsx
+├── organized_disease_symptoms_report.xlsx
+└── world_map.png
 ```
 
 ## Skills Practiced
